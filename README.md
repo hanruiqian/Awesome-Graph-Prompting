@@ -67,5 +67,8 @@ A collection of Graph Prompting related works.
 
 ## Other resources
 
-* [[Prompt Engineering Guide](https://www.promptingguide.ai)]
+* [[Prompt Engineering Guide.](https://www.promptingguide.ai)]
 * [[awesome-large-graph-model](https://github.com/THUMNLab/awesome-large-graph-model)]
+* [[Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing.](https://dl.acm.org/doi/pdf/10.1145/3560815?trk=public_post_comment-text)]
+* [[MaPLe: Multi-modal Prompt Learning.](https://openaccess.thecvf.com/content/CVPR2023/papers/Khattak_MaPLe_Multi-Modal_Prompt_Learning_CVPR_2023_paper.pdf)]
+* [[The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf)]
