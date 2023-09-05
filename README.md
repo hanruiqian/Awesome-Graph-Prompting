@@ -1,6 +1,6 @@
 # Awesome-Graph-Prompting [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A collection of Graph Prompting related work.
+A collection of Graph Prompting related works.
 
 ## Methods
 * All in One: Multi-Task Prompting for Graph Neural Networks. (***KDD 2023 (Best Paper Award)***)
