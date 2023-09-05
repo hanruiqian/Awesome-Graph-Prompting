@@ -23,14 +23,14 @@ A collection of Graph Prompting related work.
 [[paper]](https://arxiv.org/abs/2210.10709)
 [[code]](https://github.com/zjunlp/RAP)
 
-* PRODIGY: Enabling In-context Learning Over Graphs. (***Arxiv***)
+* PRODIGY: Enabling In-context Learning Over Graphs. (***ArXiv***)
 [[paper]](https://arxiv.org/pdf/2305.12600.pdf)
 [[code]](https://github.com/snap-stanford/prodigy)
 
-* Universal Prompt Tuning for Graph Neural Networks. (***Arxiv***)
+* Universal Prompt Tuning for Graph Neural Networks. (***ArXiv***)
 [[paper]](https://arxiv.org/pdf/2209.15240.pdf)
 
-* SGL-PT: A Strong Graph Learner with Graph Prompt Tuning. (***Arxiv***)
+* SGL-PT: A Strong Graph Learner with Graph Prompt Tuning. (***ArXiv***)
 [[paper]](https://arxiv.org/pdf/2302.12449.pdf)
 
 * CodeKGC: Code Language Model for Generative Knowledge Graph Construction. (***ArXiv***)
@@ -43,5 +43,5 @@ A collection of Graph Prompting related work.
 
 ## Surveies
 
-* A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges. (***Arxiv***)
+* A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges. (***ArXiv***)
 [[paper]](https://arxiv.org/pdf/2303.07275.pdf)
