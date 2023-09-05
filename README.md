@@ -1,4 +1,4 @@
-<h1 align="center"><b>awesome-large-graph-model</b></h1>
+<h1 align="center"><b>Awesome-Graph-Prompting</b></h1>
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="awesome"></a>
 </p>
