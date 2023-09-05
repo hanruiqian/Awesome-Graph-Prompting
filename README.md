@@ -34,7 +34,7 @@ A collection of Graph Prompting related work.
 *Arxiv* - SGL-PT: A Strong Graph Learner with Graph Prompt Tuning.
 [[paper]](https://arxiv.org/pdf/2302.12449.pdf)
 
-*ArXiv 2023* - CodeKGC: Code Language Model for Generative Knowledge Graph Construction 
+*ArXiv* - CodeKGC: Code Language Model for Generative Knowledge Graph Construction 
 [[paper](https://arxiv.org/abs/2304.09048)]
 [[code](https://github.com/zjunlp/DeepKE/tree/main/example/llm/CodeKGC)]
 
