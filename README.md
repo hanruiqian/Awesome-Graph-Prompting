@@ -57,4 +57,4 @@ A collection of Graph Prompting related works.
 
 ## Other resources
 
-* [[awesome-large-graph-model](https://github.com/THUMNLab/awesome-large-graph-model)
+* [[awesome-large-graph-model](https://github.com/THUMNLab/awesome-large-graph-model)]
