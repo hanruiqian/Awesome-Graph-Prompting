@@ -64,4 +64,5 @@ A collection of Graph Prompting related works.
 
 ## Other resources
 
+* [[Prompt Engineering Guide](https://www.promptingguide.ai)]
 * [[awesome-large-graph-model](https://github.com/THUMNLab/awesome-large-graph-model)]
