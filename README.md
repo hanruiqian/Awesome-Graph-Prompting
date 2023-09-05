@@ -39,8 +39,8 @@ A collection of Graph Prompting related work.
 [[code](https://github.com/zjunlp/DeepKE/tree/main/example/llm/CodeKGC)]
 
 *KDD 2022* GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks
-[[Paper](https://dl.acm.org/doi/10.1145/3534678.3539249 )]  
-[[Code](https://github.com/MingChen-Sun/GPPT)]
+[[Paper]](https://dl.acm.org/doi/10.1145/3534678.3539249 )
+[[Code]](https://github.com/MingChen-Sun/GPPT)
 
 ## Surveies
 
