@@ -18,6 +18,9 @@ A collection of Graph Prompting related works.
 [[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583386)]
 [[code](https://github.com/Starlien95/GraphPrompt)]
 
+* Natural Language is All a Graph Needs. (***ArXiv***)
+[[paper](https://arxiv.org/pdf/2308.07134.pdf)]
+
 * Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer. (***WWW 2023***)
 [[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583301)]
 [[code](https://github.com/zjukg/KGTransformer)]
@@ -28,6 +31,10 @@ A collection of Graph Prompting related works.
 
 * Deep Graph Reprogramming. (***CVPR 2023***)
 [[paper](https://arxiv.org/pdf/2304.14593.pdf)]
+
+* StructGPT: A General Framework for Large Language Model to Reason over Structured Data. (***ArXiv***)
+[[paper](https://arxiv.org/abs/2305.09645)]
+[[code](https://github.com/RUCAIBox/StructGPT)]
 
 * PRODIGY: Enabling In-context Learning Over Graphs. (***ArXiv***)
 [[paper](https://arxiv.org/pdf/2305.12600.pdf)]
