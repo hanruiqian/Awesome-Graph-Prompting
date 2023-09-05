@@ -2,7 +2,7 @@
 
 A collection of Graph Prompting related works.
 
-## Methods
+## Paper
 * All in One: Multi-Task Prompting for Graph Neural Networks. (***KDD 2023 (Best Paper Award)***)
 [[paper](https://arxiv.org/pdf/2307.01504.pdf)] 
 [[code](https://github.com/sheldonresearch/ProG)]
@@ -44,7 +44,7 @@ A collection of Graph Prompting related works.
 [[Paper](https://dl.acm.org/doi/10.1145/3534678.3539249)]
 [[Code](https://github.com/MingChen-Sun/GPPT)]
 
-## Surveies
+## Survey
 
 * A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges. (***ArXiv***)
 [[paper](https://arxiv.org/pdf/2303.07275.pdf)]
