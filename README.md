@@ -7,6 +7,9 @@ A collection of Graph Prompting related works.
 [[paper](https://arxiv.org/pdf/2307.01504.pdf)] 
 [[code](https://github.com/sheldonresearch/ProG)]
 
+* Knowledge Graph Prompting for Multi-Document Question Answering. (***ArXiv***)
+[[paper](https://arxiv.org/pdf/2308.11730.pdf)]
+
 * PROMPT TUNING FOR GRAPH NEURAL NETWORKS. (***Withdrawn from ICML 2023***)
 [[paper](https://openreview.net/pdf?id=SZojABvWnkx)]
 [[openreview](https://openreview.net/forum?id=SZojABvWnkx)]
