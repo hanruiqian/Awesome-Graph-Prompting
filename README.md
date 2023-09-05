@@ -26,6 +26,9 @@ A collection of Graph Prompting related works.
 [[paper](https://arxiv.org/abs/2210.10709)]
 [[code](https://github.com/zjunlp/RAP)]
 
+* Deep Graph Reprogramming. (***CVPR 2023***)
+[[paper](https://arxiv.org/pdf/2304.14593.pdf)]
+
 * PRODIGY: Enabling In-context Learning Over Graphs. (***ArXiv***)
 [[paper](https://arxiv.org/pdf/2305.12600.pdf)]
 [[code](https://github.com/snap-stanford/prodigy)]
@@ -48,3 +51,10 @@ A collection of Graph Prompting related works.
 
 * A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges. (***ArXiv***)
 [[paper](https://arxiv.org/pdf/2303.07275.pdf)]
+
+* Large Graph Models: A Perspective. (***ArXiv***)
+[[paper](https://arxiv.org/pdf/2308.14522.pdf)
+
+## Other resources
+
+* [[awesome-large-graph-model](https://github.com/THUMNLab/awesome-large-graph-model)
