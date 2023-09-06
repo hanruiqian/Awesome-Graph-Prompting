@@ -63,7 +63,7 @@ A collection of Graph Prompting related works.
 [[paper](https://arxiv.org/pdf/2303.07275.pdf)]
 
 * Large Graph Models: A Perspective. (***ArXiv***)
-[[paper](https://arxiv.org/pdf/2308.14522.pdf)
+[[paper](https://arxiv.org/pdf/2308.14522.pdf)]
 
 ## Other resources
 
