@@ -10,6 +10,10 @@ A collection of Graph Prompting related works.
 [[paper](https://arxiv.org/pdf/2307.01504.pdf)] 
 [[code](https://github.com/sheldonresearch/ProG)]
 
+* GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks. (***KDD 2022***)
+[[Paper](https://dl.acm.org/doi/10.1145/3534678.3539249)]
+[[Code](https://github.com/MingChen-Sun/GPPT)]
+
 * Knowledge Graph Prompting for Multi-Document Question Answering. (***ArXiv***)
 [[paper](https://arxiv.org/pdf/2308.11730.pdf)]
 
@@ -52,10 +56,6 @@ A collection of Graph Prompting related works.
 * CodeKGC: Code Language Model for Generative Knowledge Graph Construction. (***ArXiv***)
 [[paper](https://arxiv.org/abs/2304.09048)]
 [[code](https://github.com/zjunlp/DeepKE/tree/main/example/llm/CodeKGC)]
-
-* GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks. (***KDD 2022***)
-[[Paper](https://dl.acm.org/doi/10.1145/3534678.3539249)]
-[[Code](https://github.com/MingChen-Sun/GPPT)]
 
 ## Survey
 
