@@ -14,16 +14,16 @@ A collection of Graph Prompting related works.
 [[Paper](https://dl.acm.org/doi/10.1145/3534678.3539249)]
 [[Code](https://github.com/MingChen-Sun/GPPT)]
 
+* GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks. (***WWW 2023***)
+[[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583386)]
+[[code](https://github.com/Starlien95/GraphPrompt)]
+
 * Knowledge Graph Prompting for Multi-Document Question Answering. (***ArXiv***)
 [[paper](https://arxiv.org/pdf/2308.11730.pdf)]
 
 * PROMPT TUNING FOR GRAPH NEURAL NETWORKS. (***Withdrawn from ICML 2023***)
 [[paper](https://openreview.net/pdf?id=SZojABvWnkx)]
 [[openreview](https://openreview.net/forum?id=SZojABvWnkx)]
-
-* GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks. (***WWW 2023***)
-[[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583386)]
-[[code](https://github.com/Starlien95/GraphPrompt)]
 
 * Natural Language is All a Graph Needs. (***ArXiv***)
 [[paper](https://arxiv.org/pdf/2308.07134.pdf)]
