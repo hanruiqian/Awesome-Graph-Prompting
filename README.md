@@ -36,8 +36,8 @@ A collection of Graph Prompting related works.
 [[paper](https://arxiv.org/abs/2210.10709)]
 [[code](https://github.com/zjunlp/RAP)]
 
-* Deep Graph Reprogramming. (***CVPR 2023***)
-[[paper](https://arxiv.org/pdf/2304.14593.pdf)]
+<!--* Deep Graph Reprogramming. (***CVPR 2023***)
+[[paper](https://arxiv.org/pdf/2304.14593.pdf)]-->
 
 * StructGPT: A General Framework for Large Language Model to Reason over Structured Data. (***ArXiv***)
 [[paper](https://arxiv.org/abs/2305.09645)]
