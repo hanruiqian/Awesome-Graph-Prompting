@@ -3,7 +3,7 @@
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="awesome"></a>
 </p>
 
-A collection of Graph Prompting related works.
+A collection of Graph Prompting related works. A brief survey can be found in Zhihu: [Graph Prompting](https://zhuanlan.zhihu.com/p/654685367?)
 
 ## Paper
 * All in One: Multi-Task Prompting for Graph Neural Networks. (***KDD 2023 (Best Paper Award)***)
