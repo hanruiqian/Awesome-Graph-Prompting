@@ -18,6 +18,10 @@ A collection of Graph Prompting related works.
 [[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583386)]
 [[code](https://github.com/Starlien95/GraphPrompt)]
 
+* PRODIGY: Enabling In-context Learning Over Graphs. (***ArXiv***)
+[[paper](https://arxiv.org/pdf/2305.12600.pdf)]
+[[code](https://github.com/snap-stanford/prodigy)]
+
 * Knowledge Graph Prompting for Multi-Document Question Answering. (***ArXiv***)
 [[paper](https://arxiv.org/pdf/2308.11730.pdf)]
 
@@ -42,10 +46,6 @@ A collection of Graph Prompting related works.
 * StructGPT: A General Framework for Large Language Model to Reason over Structured Data. (***ArXiv***)
 [[paper](https://arxiv.org/abs/2305.09645)]
 [[code](https://github.com/RUCAIBox/StructGPT)]
-
-* PRODIGY: Enabling In-context Learning Over Graphs. (***ArXiv***)
-[[paper](https://arxiv.org/pdf/2305.12600.pdf)]
-[[code](https://github.com/snap-stanford/prodigy)]
 
 * Universal Prompt Tuning for Graph Neural Networks. (***ArXiv***)
 [[paper](https://arxiv.org/pdf/2209.15240.pdf)]
