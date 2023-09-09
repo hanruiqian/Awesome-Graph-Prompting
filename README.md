@@ -22,6 +22,9 @@ A collection of Graph Prompting related works. A brief survey can be found in Zh
 [[paper](https://arxiv.org/pdf/2305.12600.pdf)]
 [[code](https://github.com/snap-stanford/prodigy)]
 
+* SGL-PT: A Strong Graph Learner with Graph Prompt Tuning. (***ArXiv***)
+[[paper](https://arxiv.org/pdf/2302.12449.pdf)]
+
 * Knowledge Graph Prompting for Multi-Document Question Answering. (***ArXiv***)
 [[paper](https://arxiv.org/pdf/2308.11730.pdf)]
 
@@ -49,9 +52,6 @@ A collection of Graph Prompting related works. A brief survey can be found in Zh
 
 * Universal Prompt Tuning for Graph Neural Networks. (***ArXiv***)
 [[paper](https://arxiv.org/pdf/2209.15240.pdf)]
-
-* SGL-PT: A Strong Graph Learner with Graph Prompt Tuning. (***ArXiv***)
-[[paper](https://arxiv.org/pdf/2302.12449.pdf)]
 
 * CodeKGC: Code Language Model for Generative Knowledge Graph Construction. (***ArXiv***)
 [[paper](https://arxiv.org/abs/2304.09048)]
