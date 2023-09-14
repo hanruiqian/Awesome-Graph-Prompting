@@ -18,7 +18,7 @@ A collection of Graph Prompting related works. A brief survey can be found in Zh
 [[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583386)]
 [[code](https://github.com/Starlien95/GraphPrompt)]
 
-* PRODIGY: Enabling In-context Learning Over Graphs. (***ArXiv***)
+* PRODIGY: Enabling In-context Learning Over Graphs. (***ICML 2023***)
 [[paper](https://arxiv.org/pdf/2305.12600.pdf)]
 [[code](https://github.com/snap-stanford/prodigy)]
 
