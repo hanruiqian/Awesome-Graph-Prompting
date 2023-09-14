@@ -65,6 +65,7 @@ A collection of Graph Prompting related works. A brief survey can be found in Zh
 * Large Graph Models: A Perspective. (***ArXiv***)
 [[paper](https://arxiv.org/pdf/2308.14522.pdf)]
 
+
 ## Other resources
 
 * [[Prompt Engineering Guide.](https://www.promptingguide.ai)]
